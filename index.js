@@ -11,3 +11,4 @@ let hoursToMoon = 13.64070857142857;
 console.log(distanceToMoonKM * milesPerKilometer);
 console.log(milesToMoon / shuttleSpeedKm);
 console.log(hoursToMoon / 24);
+console.log("welcome!");
